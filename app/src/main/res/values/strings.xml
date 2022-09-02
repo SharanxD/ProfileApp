@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="title">Android Developer</string>
+    <string name="full_name">Sharan Prakash</string>
+    <string name="phone_number">+91 9962772068</string>
+    <string name="socialhandle">\@itsmee.sharan</string>
+    <string name="email">sharanprakash2003@gmail.com</string>
+</resources>
